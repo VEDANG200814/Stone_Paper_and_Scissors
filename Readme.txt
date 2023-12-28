@@ -1,0 +1,6 @@
+Hi, its Vedang this side....
+Download the Java Extension pack in VS Code.
+Copy the given code.
+Paste it in a new file with extension .java
+Run the code and enjoy.
+Do Follow meeeeeee...........
